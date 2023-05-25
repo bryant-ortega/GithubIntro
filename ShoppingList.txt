@@ -7,15 +7,7 @@ Cherries
 Carrots
 Cereal
 Cucumbers
-Eggplants
-English Walnuts
-Garbanzo Beans
-Avocado
-Juice
-Walnuts
-Cranberries
-Chocolate
-Blueberries
-Blue Bananas
-Mangos
-Lychee
+Sausages
+Steak
+Chicken
+Cookies
